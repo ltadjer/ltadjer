@@ -1,51 +1,5 @@
 ### Hi there 👋
 
-<div class="animation" style=".animation {
-  text-align: center;
-  font-size: 24px;
-  font-family: monospace;
-  margin-top: 20px;
-  animation: glitch 1s infinite alternate;
-}
-
-@keyframes glitch {
-  0% {
-    transform: translateY(0);
-  }
-  100% {
-    transform: translateY(-5px);
-  }
-}
-
-.text {
-  position: relative;
-  display: inline-block;
-  color: #33cc33;
-}
-
-.text::before,
-.text::after {
-  content: attr(data-text);
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-}
-
-.text::before {
-  left: 2px;
-  text-shadow: -1px 0 #ff0000;
-}
-
-.text::after {
-  left: -2px;
-  text-shadow: 1px 0 #00ccff;
-}">
-  <p class="text">dump('Hello World!')</p>
-</div>
-
 I'm actively engaged with various technologies:
 
 <div align="center">
@@ -68,3 +22,5 @@ I'm actively engaged with various technologies:
 📫 You can contact me via email at [tadjerliticia@gmail.com](mailto:tadjerliticia@gmail.com).
 
 ⚡ Fun fact: I'm also a coffee enthusiast and enjoy exploring new cafes in my free time!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltadjer&layout=compact&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
