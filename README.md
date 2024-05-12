@@ -1,11 +1,11 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-     <style>
+     <div>
+         <style>
       .illustration {
         font-size: 8px; margin-bottom: 660px;
         }
     </style>
-     <div>
        <div align="center">
           <img data-v-269d9bd6="" alt="Web development PNG, SVG" src="https://ouch-cdn2.icons8.com/VscTj57FiuRFBiIkjtaNik8_KClNnS05qmOYYL3JaeM/rs:fit:368:368/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzg0/LzMzZjAwYzVhLTg4/NWYtNGViNC1hZTMx/LTZiNGE5OGJkZDc0/MS5wbmc.png" fetchpriority="high" loading="sync" class="image-thumb" style="max-width: 456px;">
           <div align="center" class="illustration">
