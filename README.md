@@ -1,8 +1,8 @@
 <div align="center">
 
   <img data-v-269d9bd6="" alt="Web development PNG, SVG" src="https://ouch-cdn2.icons8.com/VscTj57FiuRFBiIkjtaNik8_KClNnS05qmOYYL3JaeM/rs:fit:368:368/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzg0/LzMzZjAwYzVhLTg4/NWYtNGViNC1hZTMx/LTZiNGE5OGJkZDc0/MS5wbmc.png" fetchpriority="high" loading="sync" class="image-thumb" style="max-width: 456px;">
-  <div align="center" style="font-size: 8px">
-  Illustration by <a href="https://icons8.com/illustrations/author/sRy57eUNNFc1">Svetlana Tulenina</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+  <div align="center" style="font-size: 8px; margin-bottom: 50px">
+      Illustration by <a href="https://icons8.com/illustrations/author/sRy57eUNNFc1">Svetlana Tulenina</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 </div>
 </div>
 
