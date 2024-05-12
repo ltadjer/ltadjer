@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<div class="animation">
-  <p class="text">dump('Hello World!')</p>
-</div>
-<style>
-.animation {
+<div class="animation" style=".animation {
   text-align: center;
   font-size: 24px;
   font-family: monospace;
@@ -46,8 +42,9 @@
 .text::after {
   left: -2px;
   text-shadow: 1px 0 #00ccff;
-}
-</style>
+}">
+  <p class="text">dump('Hello World!')</p>
+</div>
 
 I'm actively engaged with various technologies:
 
