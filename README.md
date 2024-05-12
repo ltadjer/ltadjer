@@ -26,7 +26,7 @@
 
 
 <div align="center" style="padding-top: 2%; padding-bottom: 2%">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltadjer&layout=compact&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltadjer&layout=compact&theme=onedark&count_private=true" alt="Top Langs" style="max-width: 100%; animation: glitch 1s infinite alternate;">
 </div>
 
 
