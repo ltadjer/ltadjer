@@ -3,6 +3,7 @@
      <style>
       .illustration {
         font-size: 8px; margin-bottom: 660px;
+        }
     </style>
      <div>
        <div align="center">
