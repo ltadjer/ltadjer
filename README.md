@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img data-v-269d9bd6="" alt="Web development PNG, SVG" src="https://ouch-cdn2.icons8.com/VscTj57FiuRFBiIkjtaNik8_KClNnS05qmOYYL3JaeM/rs:fit:368:368/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzg0/LzMzZjAwYzVhLTg4/NWYtNGViNC1hZTMx/LTZiNGE5OGJkZDc0/MS5wbmc.png" fetchpriority="high" loading="sync" class="image-thumb" style="max-width: 456px;">
+
 I'm actively engaged with various technologies:
 
 <div align="center">
@@ -23,4 +25,12 @@ I'm actively engaged with various technologies:
 
 ⚡ Fun fact: I'm also a coffee enthusiast and enjoy exploring new cafes in my free time!
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltadjer&layout=compact&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+Illustration by <a href="https://icons8.com/illustrations/author/sRy57eUNNFc1">Svetlana Tulenina</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
