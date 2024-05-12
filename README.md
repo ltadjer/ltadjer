@@ -22,7 +22,7 @@
 
   <p>💬 Feel free to reach out to me if you have any questions or want to collaborate on exciting projects! </p>
         
-  <p>📫 You can contact me via email at [tadjerliticia@gmail.com](mailto:tadjerliticia@gmail.com). </p>
+  📫 You can contact me via email at tadjerliticia@gmail.com.
         
   <p>⚡ Fun fact: I'm also a coffee enthusiast and enjoy exploring new cafes in my free time! </p>
     
