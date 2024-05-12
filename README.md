@@ -3,7 +3,7 @@
      <div>
        <div align="center">
           <img data-v-269d9bd6="" alt="Web development PNG, SVG" src="https://ouch-cdn2.icons8.com/VscTj57FiuRFBiIkjtaNik8_KClNnS05qmOYYL3JaeM/rs:fit:368:368/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNzg0/LzMzZjAwYzVhLTg4/NWYtNGViNC1hZTMx/LTZiNGE5OGJkZDc0/MS5wbmc.png" fetchpriority="high" loading="sync" class="image-thumb" style="max-width: 456px;">
-          <div align="center" style="font-size: 8px; margin-bottom: 50px">
+          <div align="center" style="font-size: 8px; margin-bottom: 660px">
               Illustration by <a href="https://icons8.com/illustrations/author/sRy57eUNNFc1">Svetlana Tulenina</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
         </div>
         </div>
@@ -20,13 +20,13 @@
           <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
         </div>
        
-        🔭 Currently, I'm working on various projects leveraging these technologies to build efficient and user-friendly web applications.
+  <p>🔭 Currently, I'm working on various projects leveraging these technologies to build efficient and user-friendly web applications. </p>
 
-        💬 Feel free to reach out to me if you have any questions or want to collaborate on exciting projects!
+  <p>💬 Feel free to reach out to me if you have any questions or want to collaborate on exciting projects! </p>
         
-        📫 You can contact me via email at [tadjerliticia@gmail.com](mailto:tadjerliticia@gmail.com).
+  <p>📫 You can contact me via email at [tadjerliticia@gmail.com](mailto:tadjerliticia@gmail.com). </p>
         
-        ⚡ Fun fact: I'm also a coffee enthusiast and enjoy exploring new cafes in my free time!
+  <p>⚡ Fun fact: I'm also a coffee enthusiast and enjoy exploring new cafes in my free time! </p>
       
 <div align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltadjer&layout=compact&theme=onedark&count_private=true" alt="Top Langs" style="max-width: 100%; animation: glitch 1s infinite alternate;">
